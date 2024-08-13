@@ -1,20 +1,21 @@
 export default {
     title: "Homepage",
-    titleSuffix: " | Pacamara ☕",
-    description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
+    titleSuffix: " | Andrew Barcelo ☕",
+    description: "Based Coffee",
     defaultOgImage: "./defaultog.jpg",
-    latestPosts: 3,
+    latestPosts: 6,
     postsPerPage: 3,
-    url: "https://pacamara-astro-6y7xr.kinsta.page",
+    url: "example.github.io",
     social: {
         'dribbble': false,
         'facebook': false,
-        'github': 'https://github.com/palmiak',
+        'github': 'https://github.com/prokid64',
+        'youtube': 'https://www.youtube.com/@andrewbarcelo64',
         'instagram': false,
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': 'https://twitter.com/palmiak_fp'
+        'twitter': false
 
     }
 }
